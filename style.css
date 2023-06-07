@@ -1,0 +1,243 @@
+* {
+    margin: 0.1%;
+    padding: 0%;
+    background-color: gray;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+
+.item-one {
+    width: 487px;
+    height: 150px;
+    background-color: aliceblue;
+    border: 10px solid red;
+    border-color: #f00606;
+    box-shadow: 10px 10px 0px rgb(121, 1, 1);
+    margin: 0px 0px 0px 28%;
+    text-align: center;
+    font-size: 28px;
+    color: rgb(131, 3, 3);
+    border-radius: 0.5cm;
+    text-shadow: 2px 2px 2px rgb(131, 3, 3);
+}
+
+.child-one {
+    background-color: aliceblue;
+    margin: 30px 30px;
+
+}
+
+hr {
+    color: aliceblue 10px;
+    margin: 8px;
+    margin-top: 8px;
+}
+
+.parent {
+    width: 98.6%;
+    display: flex;
+    border: rgb(2, 110, 2) solid 7px;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.child1 {
+    align-items: center;
+    width: 250px;
+    height: 250px;
+    background-color: aliceblue;
+    border: 10px solid red;
+    border-color: #f00606;
+    box-shadow: 10px 10px 0px rgb(121, 1, 1);
+    margin: 0px 400px 0px 0px;
+    border-radius: 0.5cm;
+    text-align: center;
+    font-size: 40px;
+    color: rgb(0, 0, 71);
+    text-shadow: 2px 2px 3px black;
+}
+
+.child2 {
+    align-items: center;
+    width: 250px;
+    height: 250px;
+    background-color: aliceblue;
+    border: 10px solid red;
+    border-color: #f00606;
+    box-shadow: 10px 10px 0px rgb(121, 1, 1);
+    margin: 0px 100px;
+    border-radius: 0.5cm;
+    text-align: center;
+}
+
+.child4 {
+    align-items: center;
+    width: 250px;
+    height: 250px;
+    background-color: aliceblue;
+    border: 10px solid red;
+    border-color: #f00606;
+    box-shadow: 10px 10px 0px rgb(121, 1, 1);
+    margin: 80px 0px 25px 0px;
+    border-radius: 0.5cm;
+    text-align: center;
+    font-size: 30px;
+    color: rgb(0, 0, 71);
+    text-shadow: 2px 2px 3px black;
+}
+
+.child5 {
+    align-items: center;
+    width: 250px;
+    height: 250px;
+    background-color: aliceblue;
+    border: 10px solid red;
+    border-color: #f00606;
+    box-shadow: 10px 10px 0px rgb(121, 1, 1);
+    margin: 80px 100px 25px 20px;
+    border-radius: 0.5cm;
+    text-align: center;
+    font-size: 25px;
+    color: rgb(0, 0, 71);
+    text-shadow: 2px 2px 3px black;
+}
+
+.child3 {
+    width: 487px;
+    height: 90px;
+    position: fixed;
+    top: 500px;
+    left: 410px;
+    background-color: greenyellow;
+    border: 10px solid red;
+    box-shadow: 10px 10px 0px rgb(121, 1, 1);
+    border-radius: 0.5cm;
+    text-align: center;
+    color: rgb(151, 5, 5);
+    text-shadow: 1px 0px 0px black;
+    display: inline-block;
+    z-index: 1;
+}
+
+tr {
+    background-color: greenyellow;
+    font-size: 25px;
+}
+
+.ctwo1 {
+    padding: 15px;
+    background-color: greenyellow;
+    font-size: 25px;
+}
+
+.ctwo {
+    padding: 0px;
+    background-color: greenyellow;
+    font-size: 20px;
+}
+
+img {
+    margin-top: 65px;
+    width: 200px;
+    height: 130px;
+    border: 3px solid blue;
+    border-radius: 0.1cm;
+    border-top: none;
+}
+
+.cthree {
+    font-size: 25px;
+    background-color: aliceblue;
+    margin: 15px 0px;
+    line-height: 45px;
+}
+
+.cfour {
+    background-color: aliceblue;
+    margin: 15px 0px;
+    font-size: 25px;
+    text-align: left;
+}
+
+
+form input {
+    text-align: center;
+    font-size: 10px;
+}
+
+form label {
+    font-size: 15px;
+    flex-wrap: wrap;
+}
+
+.cfive {
+    background-color: aliceblue;
+    font-size: 24px;
+    flex-wrap: wrap;
+
+}
+
+form button {
+    text-align: center;
+    font-size: 10px;
+    padding: 0px 10px;
+    flex-wrap: wrap;
+}
+
+.child7 {
+    border: purple 7px solid;
+    margin-left: 20%;
+    background-color: green;
+    text-shadow: 1px 0px 0px black;
+}
+
+p {
+    background-color: green;
+    padding: 20px 20px 20px 20px;
+    text-align: center;
+    margin-bottom: 1px;
+}
+
+
+h1 {
+    background-color: green;
+    font-size: 28px;
+    padding: 15px;
+    text-shadow: 1px 0px 0px black;
+}
+
+span {
+    background-color: rgb(247, 216, 160);
+    font-size: 17px;
+}
+
+.span {
+    line-height: 30px;
+}
+
+.span2 {
+    margin: 0px -1.5px 0px -6px;
+}
+
+.span3 {
+    margin: 0px -6px 0px -1.5px;
+}
+
+.span1 {
+    margin: 0px -20px 0px -6px;
+}
+
+.c10 {
+    margin: 0%;
+    padding: 0.004%;
+}
+
+.c11 {
+    margin: -15px 0px 0px 0px;
+    padding: 0%;
+}
+
+.c6 {
+    position: relative;
+    bottom: 3px;
+}
