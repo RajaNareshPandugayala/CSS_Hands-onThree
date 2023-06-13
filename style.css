@@ -13,7 +13,7 @@
     border: 10px solid red;
     border-color: #f00606;
     box-shadow: 10px 10px 0px rgb(121, 1, 1);
-    margin: 0px 0px 0px 28%;
+    margin: 0px 0px 0px 26.5%;
     text-align: center;
     font-size: 28px;
     color: rgb(131, 3, 3);
@@ -107,7 +107,7 @@ hr {
     height: 90px;
     position: fixed;
     top: 500px;
-    left: 410px;
+    left: 340px;
     background-color: greenyellow;
     border: 10px solid red;
     box-shadow: 10px 10px 0px rgb(121, 1, 1);
